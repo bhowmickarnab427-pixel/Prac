@@ -1,2 +1,8 @@
 Ajke pochur brishti hoccha
+<<<<<<< HEAD
 Ar jake jabo naa.
+=======
+
+tai ajke bhajiye with tomato sauce khete hobe.
+aar rudra, 2 cup chaa anish to.
+>>>>>>> 99fce45bfc8c90fb5ce4b9c16f9e46e8f8a27f08
